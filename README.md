@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Berenice García
+- 👀 I’m interested in Cloud Services, Bussines Inteligence & Learn everything I can from experts.
+- 🌱 I’m currently learning to work with Dynamics AX ERP.
+- 📫 Reach me on my Linkedin profile... linkedin.com/in/berenice-garcía-927046235
